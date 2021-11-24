@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/rrahul963/serverless-add-api-key#readme",
   "dependencies": {
-    "aws-sdk": "^2.421.0",
     "chalk": "^2.4.1"
   },
   "devDependencies": {
